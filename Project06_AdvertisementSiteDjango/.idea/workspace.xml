@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="66c79697-6af3-4d3d-af0b-1f909d804a78" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project07_SnakeGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project07_SnakeGame/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -66,7 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1649664508501</updated>
       <workItem from="1649664510584" duration="48000" />
-      <workItem from="1649741848494" duration="1417000" />
+      <workItem from="1649741848494" duration="1848000" />
+      <workItem from="1649820405176" duration="228000" />
     </task>
     <servers />
   </component>
