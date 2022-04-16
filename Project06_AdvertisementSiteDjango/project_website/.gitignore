@@ -1,1 +1,6 @@
-project_website.secretkey
+__pycache__/
+*.pyc
+.idea/
+
+db.sqlite3
+project_website.settings.py
