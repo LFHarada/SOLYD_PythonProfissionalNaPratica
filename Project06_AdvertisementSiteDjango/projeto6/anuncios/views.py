@@ -6,10 +6,10 @@ from .models import Anuncio
 
 def home(request):
     categorias = Categoria.objects.all()
-    #ultimos_anuncios = Anuncio.objects.search('')
+    # ultimos_anuncios = Anuncio.objects.search('')
 
     return render(request, 'home.html', {'categorias': categorias,
-                                        #'anuncios': ultimos_anuncios
+                                        # 'anuncios': ultimos_anuncios
                                          })
 
 
